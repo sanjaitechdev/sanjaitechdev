@@ -54,95 +54,65 @@ OPEN TO   : Software Engineer (SDE) · Full Stack Developer · AI/ML Engineering
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,python,c,react,html,css&theme=dark" height="50"/>
-<br/><b>💻 Languages & Frontend</b>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,c,react,tailwind,html,css&perline=8&theme=dark" height="52" alt="Languages and Frontend"/>
+</p>
+<p align="center">
+  <b>💻 Languages & Frontend</b>
+</p>
 
-<br/><br/>
+<br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,mysql,mongodb,postgres,firebase&theme=dark" height="50"/>
-<br/><b>⚙️ Backend, Frameworks & Databases</b>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,mysql,mongodb,postgres,firebase&perline=8&theme=dark" height="52" alt="Backend and Databases"/>
+</p>
+<p align="center">
+  <b>⚙️ Backend & Databases</b>
+</p>
 
-<br/><br/>
+<br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,aws,vercel&theme=dark" height="50"/>
-<br/><b>🚀 DevOps, Cloud & Tools</b>
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,vercel&perline=8&theme=dark" height="52" alt="DevOps, Cloud and Tools"/>
+</p>
+<p align="center">
+  <b>🚀 DevOps, Cloud & Tools</b>
+</p>
 
 <br/>
 
 <table>
 <tr>
-<td width="28%"><b>Programming Languages</b></td>
-<td>
-<img height="22" src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
-<img height="22" src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
-<img height="22" src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
-<img height="22" src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
-<img height="22" src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
+<td align="right" width="22%"><b>🧠 Core CS</b></td>
+<td align="left">
+<img height="22" src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0D1117?style=flat-square&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
+<img height="22" src="https://img.shields.io/badge/OOP-0D1117?style=flat-square&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
+<img height="22" src="https://img.shields.io/badge/DBMS-0D1117?style=flat-square&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
+<img height="22" src="https://img.shields.io/badge/System%20Design-0D1117?style=flat-square&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
+<img height="22" src="https://img.shields.io/badge/SDLC-0D1117?style=flat-square&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
 </td>
 </tr>
 <tr>
-<td><b>Frontend Development</b></td>
-<td>
-<img height="22" src="https://img.shields.io/badge/React.js-0D1117?style=flat-square&logo=react&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
-<img height="22" src="https://img.shields.io/badge/Framer%20Motion-0D1117?style=flat-square&logo=framer&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
-<img height="22" src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
-<img height="22" src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
-</td>
-</tr>
-<tr>
-<td><b>Backend Development</b></td>
-<td>
-<img height="22" src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
-<img height="22" src="https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
-<img height="22" src="https://img.shields.io/badge/Spring%20Boot-0D1117?style=flat-square&logo=springboot&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
-<img height="22" src="https://img.shields.io/badge/Spring%20Data%20JPA-0D1117?style=flat-square&logo=spring&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
-<img height="22" src="https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/>
-<img height="22" src="https://img.shields.io/badge/Microservices-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/>
-<img height="22" src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
-</td>
-</tr>
-<tr>
-<td><b>Databases</b></td>
-<td>
-<img height="22" src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
-<img height="22" src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
-<img height="22" src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
-<img height="22" src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
-</td>
-</tr>
-<tr>
-<td><b>Core Computer Science</b></td>
-<td>
-<img height="22" src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/>
-<img height="22" src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/>
-<img height="22" src="https://img.shields.io/badge/DBMS-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/>
-<img height="22" src="https://img.shields.io/badge/System%20Design-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/>
-<img height="22" src="https://img.shields.io/badge/SDLC-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/>
-<img height="22" src="https://img.shields.io/badge/Complexity%20Analysis-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/>
-</td>
-</tr>
-<tr>
-<td><b>Tools & Cloud</b></td>
-<td>
-<img height="22" src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
-<img height="22" src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
-<img height="22" src="https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
-<img height="22" src="https://img.shields.io/badge/CI%2FCD%20Pipelines-0D1117?style=flat-square&logo=githubactions&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
-<img height="22" src="https://img.shields.io/badge/AWS%20Cloud-0D1117?style=flat-square&logo=amazonaws&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
-<img height="22" src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
-</td>
-</tr>
-<tr>
-<td><b>AI & ML Technologies</b></td>
-<td>
-<img height="22" src="https://img.shields.io/badge/AI%20API%20Integration-0D1117?style=flat-square&logo=openai&logoColor=39FF14&labelColor=0D1117&color=39FF14"/>
-<img height="22" src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/>
+<td align="right"><b>🤖 AI & ML</b></td>
+<td align="left">
+<img height="22" src="https://img.shields.io/badge/OpenAI%20API-0D1117?style=flat-square&logo=openai&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
+<img height="22" src="https://img.shields.io/badge/LLMs-0D1117?style=flat-square&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
 <img height="22" src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=flat-square&logo=huggingface&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
+<img height="22" src="https://img.shields.io/badge/AI%20API%20Integration-0D1117?style=flat-square&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
+</td>
+</tr>
+<tr>
+<td align="right"><b>⚡ Frameworks & APIs</b></td>
+<td align="left">
+<img height="22" src="https://img.shields.io/badge/RESTful%20APIs-0D1117?style=flat-square&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
+<img height="22" src="https://img.shields.io/badge/Spring%20Data%20JPA-0D1117?style=flat-square&logo=spring&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
+<img height="22" src="https://img.shields.io/badge/Microservices-0D1117?style=flat-square&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
+<img height="22" src="https://img.shields.io/badge/Framer%20Motion-0D1117?style=flat-square&logo=framer&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
@@ -211,6 +181,12 @@ OPEN TO   : Software Engineer (SDE) · Full Stack Developer · AI/ML Engineering
 
 <td width="50%" valign="top">
 
+<a href="https://agri-pulse-pied.vercel.app/" target="_blank">
+  <img src="assets/harvion-preview.png" alt="Harvion AI – Smart Agricultural System" width="100%"/>
+</a>
+
+<br/><br/>
+
 ### 🌾 Harvion AI – Smart Agricultural System
 
 <img height="24" src="https://img.shields.io/badge/React.js-0D1117?style=flat-square&logo=react&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
@@ -227,6 +203,12 @@ OPEN TO   : Software Engineer (SDE) · Full Stack Developer · AI/ML Engineering
 </td>
 
 <td width="50%" valign="top">
+
+<a href="https://tenshiro.vercel.app/" target="_blank">
+  <img src="assets/tenshiro-preview.png" alt="Tenshiro – AI Career Navigation Platform" width="100%"/>
+</a>
+
+<br/><br/>
 
 ### 🧭 Tenshiro – AI Career Navigation Platform
 
