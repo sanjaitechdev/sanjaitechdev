@@ -36,7 +36,7 @@
 ## 👨‍💻 About Me
 
 <blockquote>
-<h4>Software Engineer with experience in full-stack web development using Java, React.js, Node.js, Express.js, and the MERN Stack (MongoDB, Express.js, React.js, and Node.js). Skilled in developing RESTful APIs, database-driven applications, and AI-powered solutions using MySQL, MongoDB, Spring Boot, and AI API integration. Strong foundation in Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP), and software engineering principles, with a focus on code quality, maintainability, software testing, performance optimization, and building scalable, reliable applications.</h4>
+<h4>Aspiring Software Engineer skilled in full-stack web development, Java programming, the MERN Stack (MongoDB, Express.js, React.js, Node.js), and AI systems. Strong foundation in Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP), RESTful APIs, and software engineering principles. Focused on developing scalable, efficient, and reliable software with a strong emphasis on code quality, maintainability, software maintenance, testing, performance optimization, and continuous innovation.</h4>
 </blockquote>
 
 ```bash
@@ -154,13 +154,12 @@ OPEN TO   : Software Engineer (SDE) · Full Stack Developer · AI/ML Engineering
 ### 🚀 Strydo Technologies Pvt. Ltd.
 <img height="24" src="https://img.shields.io/badge/Full%20Stack%20Web%20Development%20Intern-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/> <img height="24" src="https://img.shields.io/badge/📅%20Jun%202026%20--%20Jul%202026-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/📍%20India-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/>
 
-- **Architected and built** a comprehensive career-navigation platform using React.js, Node.js, Express.js, and MySQL: **27 pages, 70 routes**, deployed on Vercel.
-- **Integrated OpenAI API** for AI recommendations, dynamic roadmaps, interview preparation, and resume analysis across 18 specialized domains.
-- **Engineered scalable backend routes** and responsive client components with optimized database querying and API latency.
+- **Integrated LLM APIs** (OpenAI SDK, Groq Llama 3.3 70B) in 5 backend controllers: AI mentor, interview prep, resume analysis.
+- **Implemented JWT and Google OAuth 2.0 login** and a webcam-proctored exam flow with face detection and integrity scoring.
 
 <hr style="border:none;border-top:1px solid #39FF14;opacity:0.25;margin:12px 0;">
 
-<img height="24" src="https://img.shields.io/badge/React.js-0D1117?style=flat-square&logo=react&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/OpenAI%20API-0D1117?style=flat-square&logo=openai&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
+<img height="24" src="https://img.shields.io/badge/React.js-0D1117?style=flat-square&logo=react&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/OpenAI%20SDK-0D1117?style=flat-square&logo=openai&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/Llama%203.3%2070B-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/>
 
 </td></tr>
 </table>
@@ -173,13 +172,14 @@ OPEN TO   : Software Engineer (SDE) · Full Stack Developer · AI/ML Engineering
 ### ☕ Codec Technologies
 <img height="24" src="https://img.shields.io/badge/Java%20Developer%20Intern-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/> <img height="24" src="https://img.shields.io/badge/📅%20Jan%202026%20--%20Apr%202026-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/📍%20Hybrid%2C%20India-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/>
 
-- **Developed** College Management System backend using Java, Spring Boot, and MySQL, implementing **10 controller classes** for robust modular request handling.
-- **Implemented database persistence** using Spring Data JPA, designing and maintaining **29 entity/model classes** with transactional integrity.
-- **Engineered RESTful endpoints** applying Object-Oriented Programming (OOP) patterns, data validations, and optimized queries.
+- **Developed an ERP backend** (Java 21, Spring Boot 3): **115 REST endpoints, 20 controllers, 10 services, 28 JPA repositories**.
+- **Designed 29 JPA entities** in MySQL and secured endpoints using JWT, Spring Security and 8 roles (**38 @PreAuthorize guards**).
+- **Built STOMP WebSocket live updates** and containerized the backend, frontend and MySQL 8 with **Docker Compose**.
+- **Generated a test dataset** of 4,440 students, 423 faculty and 444,000 attendance records across 25 departments.
 
 <hr style="border:none;border-top:1px solid #39FF14;opacity:0.25;margin:12px 0;">
 
-<img height="24" src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/Spring%20Boot-0D1117?style=flat-square&logo=springboot&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/Spring%20Data%20JPA-0D1117?style=flat-square&logo=spring&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/OOP-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/>
+<img height="24" src="https://img.shields.io/badge/Java%2021-0D1117?style=flat-square&logo=openjdk&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/Spring%20Boot%203-0D1117?style=flat-square&logo=springboot&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/Spring%20Security-0D1117?style=flat-square&logo=springsecurity&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/Docker%20Compose-0D1117?style=flat-square&logo=docker&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/WebSocket-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/>
 
 </td></tr>
 </table>
@@ -192,13 +192,12 @@ OPEN TO   : Software Engineer (SDE) · Full Stack Developer · AI/ML Engineering
 ### 🎨 CodeAlpha
 <img height="24" src="https://img.shields.io/badge/Frontend%20Development%20Intern-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/> <img height="24" src="https://img.shields.io/badge/📅%20Nov%202025%20--%20Dec%202025-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/📍%20Chennai%2C%20Tamil%20Nadu-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/>
 
-- **Built** a responsive React.js portfolio featuring **7 core sections**: Hero, About, Process, Projects, Journey, Moments, and Contact.
-- **Implemented** Framer Motion animations and reusable UI components including interactive navigation, intro animations, custom cursor, and dynamic scroll progress.
-- **Ensured cross-browser responsiveness**, fast rendering performance, and clean component modularity.
+- **Designed a responsive React 19 and Tailwind CSS portfolio** with 10 sections and 10 reusable components.
+- **Implemented Framer Motion animations in 15 files**; production build is **138 kB gzipped JS and 13 kB gzipped CSS**.
 
 <hr style="border:none;border-top:1px solid #39FF14;opacity:0.25;margin:12px 0;">
 
-<img height="24" src="https://img.shields.io/badge/React.js-0D1117?style=flat-square&logo=react&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/Framer%20Motion-0D1117?style=flat-square&logo=framer&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
+<img height="24" src="https://img.shields.io/badge/React%2019-0D1117?style=flat-square&logo=react&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/Framer%20Motion-0D1117?style=flat-square&logo=framer&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/Performance-Optimized-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/>
 
 </td></tr>
 </table>
@@ -216,12 +215,12 @@ OPEN TO   : Software Engineer (SDE) · Full Stack Developer · AI/ML Engineering
 
 <img height="24" src="https://img.shields.io/badge/React.js-0D1117?style=flat-square&logo=react&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
 
-**Architecture:** Full-Stack Web App (React.js, Node.js, Express.js, MongoDB, FastAPI)  
-**Scale:** 39 pages &middot; 74 REST APIs &middot; 20 data models
+**Architecture:** Full-Stack Agri Platform (React.js, Node.js, Express.js, MongoDB, FastAPI)  
+**Scale:** 39 pages &middot; 74 APIs &middot; 20 data models
 
-- **Crop Intelligence:** Implemented price forecasting, real-time weather insights, and advisory systems for **29 distinct crop profiles**.
-- **Marketplace & Logistics:** Integrated farmer-buyer bidding workflows, live order tracking, and agricultural data feeds.
-- **Hybrid Backend:** Orchestrated Node.js/Express service layer with a Python FastAPI microservice for machine learning and analytical computations.
+- **Engineered full-stack agri platform** with 39 pages, 74 APIs, and 20 data models.
+- **Trained a Random Forest crop model** (29 crops, 8,700 synthetic samples); 8 passing unit tests validate the decision engine.
+- **Secured APIs with JWT role-based access**, rate limiting, and Redis caching; added Socket.io alerts and an 8-language UI.
 
 🔗 **[GitHub Repository](https://github.com/sanjaitechdev/AgriPulse)** &nbsp;|&nbsp; 🌐 **[Live Demo](https://agri-pulse-pied.vercel.app/)**
 
@@ -231,14 +230,13 @@ OPEN TO   : Software Engineer (SDE) · Full Stack Developer · AI/ML Engineering
 
 ### 🧭 Tenshiro – AI Career Navigation Platform
 
-<img height="24" src="https://img.shields.io/badge/React.js-0D1117?style=flat-square&logo=react&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/OpenAI%20API-0D1117?style=flat-square&logo=openai&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
+<img height="24" src="https://img.shields.io/badge/React.js-0D1117?style=flat-square&logo=react&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/OpenAI%20SDK-0D1117?style=flat-square&logo=openai&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
 
-**Architecture:** AI-Powered Career Platform (React.js, Node.js, MySQL, OpenAI)  
-**Scale:** 27 pages &middot; 70 backend routes
+**Architecture:** AI Career Platform (React.js, Node.js, MySQL, OpenAI SDK)  
+**Scale:** 23 pages &middot; 74 REST endpoints &middot; 15 tables
 
-- **AI-Driven Guidance:** Delivered personalized AI career recommendations, dynamic learning roadmaps, interactive interview prep, and instant resume analysis.
-- **Broad Coverage:** Comprehensive career trajectories across **18 specialized domains** and **153 distinct industry roles**.
-- **Robust Infrastructure:** High-performance MySQL relational schema paired with Node.js controller pipelines and OpenAI prompt orchestration.
+- **Developed AI career platform** featuring 23 pages, 74 REST endpoints, and 15 relational tables.
+- **Delivered AI mentoring, personalized roadmaps**, interactive interview preparation, and resume analysis across **18 domains and 153 roles**.
 
 🔗 **[GitHub Repository](https://github.com/sanjaitechdev/Tenshiro)** &nbsp;|&nbsp; 🌐 **[Live Demo](https://tenshiro.vercel.app/)**
 
@@ -338,20 +336,20 @@ OPEN TO   : Software Engineer (SDE) · Full Stack Developer · AI/ML Engineering
 
 <table>
 <tr>
-<td width="70%"><b>IBM Full Stack Software Developer</b> — Professional Certificate</td>
+<td width="70%"><b>Full Stack Software Developer</b> — IBM Professional Certificate</td>
 <td align="center" width="30%"><a href="https://coursera.org/share/a2878bc5b37784ab537b6c102095e6c4" target="_blank"><img height="24" src="https://img.shields.io/badge/Verify-IBM%20Coursera-0D1117?style=flat-square&logo=ibm&logoColor=39FF14&labelColor=0D1117&color=39FF14"/></a></td>
 </tr>
 <tr>
-<td><b>Google AI Essentials & Prompting Essentials</b> — Google</td>
+<td><b>Programming in Java</b> — NPTEL</td>
+<td align="center"><a href="https://drive.google.com/file/d/11u-FQ9AgsfdMxkUDLDPh-Kj0ALydrcRY/view?usp=drive_link" target="_blank"><img height="24" src="https://img.shields.io/badge/Verify-NPTEL%20IIT-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/></a></td>
+</tr>
+<tr>
+<td><b>AI Essentials & Prompting Essentials</b> — Google</td>
 <td align="center"><a href="https://coursera.org/share/de2d8ee38efcd9223916868bae78dbff" target="_blank"><img height="24" src="https://img.shields.io/badge/Verify-Google%20Coursera-0D1117?style=flat-square&logo=google&logoColor=39FF14&labelColor=0D1117&color=39FF14"/></a></td>
 </tr>
 <tr>
-<td><b>Programming in Java</b> — NPTEL</td>
-<td align="center"><a href="https://drive.google.com" target="_blank"><img height="24" src="https://img.shields.io/badge/Certified-NPTEL%20IIT-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/></a></td>
-</tr>
-<tr>
-<td><b>Oracle GenAI Professional</b> — Oracle</td>
-<td align="center"><a href="https://catalog-education.oracle.com" target="_blank"><img height="24" src="https://img.shields.io/badge/Certified-Oracle%20Cloud-0D1117?style=flat-square&logo=oracle&logoColor=39FF14&labelColor=0D1117&color=39FF14"/></a></td>
+<td><b>Software Engineer</b> — HackerRank</td>
+<td align="center"><a href="https://www.hackerrank.com/certificates/08d0c7b8d04e" target="_blank"><img height="24" src="https://img.shields.io/badge/Verify-HackerRank-0D1117?style=flat-square&logo=hackerrank&logoColor=39FF14&labelColor=0D1117&color=39FF14"/></a></td>
 </tr>
 </table>
 
